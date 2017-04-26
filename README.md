@@ -46,8 +46,7 @@ compared to Line and 3D.
 node.
 
 3. As compared to Gossip algorithm the push sum algorithm is faster since in push sum we need
-only one node for the convergence for which the (S/W) ration does not change significantly (10^-
-10) for 3 continuous iteration.
+only one node for the convergence for which the (S/W) ration does not change significantly (10^-10) for 3 continuous iteration.
 
 4. For line topology it is highly probable that the dead node may entirely stop the message
 passing, as it can split the topology. (The dead node can be a single point of failure).
